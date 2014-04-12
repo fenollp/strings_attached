@@ -1,0 +1,14 @@
+{application, ncursees,
+ [
+  {description, "An Erlang ncursees library"},
+  {vsn, "1"},
+  {modules, [
+             ncursees
+            ]},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {env, []}
+ ]}.
