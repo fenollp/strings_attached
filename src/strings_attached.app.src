@@ -1,9 +1,9 @@
-{application, ncursees,
+{application, strings_attached,
  [
-  {description, "An Erlang ncursees library"},
+  {description, "An Erlang strings_attached library"},
   {vsn, "1"},
   {modules, [
-             ncursees
+             strings_attached
             ]},
   {registered, []},
   {applications, [

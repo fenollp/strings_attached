@@ -1,6 +1,6 @@
--module(ncursees).
+-module(strings_attached).
 
-%% ncursees: ncursees library's entry point.
+%% strings_attached: strings_attached library's entry point.
 
 -export([my_func/0]).
 
